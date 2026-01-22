@@ -1,4 +1,4 @@
-package ExtremamaneteBasico1001;
+package p1001ExtremamaneteBasico;
 
 import java.io.IOException;
 import java.util.Scanner;

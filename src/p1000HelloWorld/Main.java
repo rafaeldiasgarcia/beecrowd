@@ -1,4 +1,4 @@
-package HelloWorld1000;
+package p1000HelloWorld;
 
 import java.io.IOException;
 
